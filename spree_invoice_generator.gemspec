@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
   s.require_path          = 'lib'
   s.requirements          << 'wkhtmltopdf'
 
-  s.add_dependency 'spree_core', '~> 1.2.2'
+  s.add_dependency 'spree_core', '~> 1.1.1'
   s.add_dependency 'wicked_pdf'
 
   # Default dependencies from spree
